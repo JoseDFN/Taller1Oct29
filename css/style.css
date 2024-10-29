@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image:url(../images/Imagen.jpg);
+    background-image:linear-gradient(to top, #13115a60 0%, #006d7534 100%) , url(../images/Imagen.jpg);
     font-family: Arial, Helvetica, sans-serif;
     background-size: cover;
     background-position: center;
