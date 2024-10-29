@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(../images/Imagen.jpg);
+    background-image:url(../images/Imagen.jpg);
     font-family: Arial, Helvetica, sans-serif;
     background-size: cover;
     background-position: center;
@@ -26,7 +26,6 @@ h1{
 .wave{
     position: fixed;
     bottom: 0px;
-    right: 0;
     width: 100%;
     
 }
